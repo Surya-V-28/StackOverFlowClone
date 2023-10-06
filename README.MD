@@ -1,3 +1,5 @@
+## Stack OverFlow Clone app usinf MERN Stack 
+
 # npm install
 use npm install to install dependencies in client and in server side.
 
